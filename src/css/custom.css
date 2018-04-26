@@ -1,0 +1,105 @@
+.side{
+    background-color: #16bdcd !important;
+    height: 100vh;
+    width:20% !important;
+}
+.menus{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    line-height: 30px !important;
+    min-height: auto !important;
+    padding-left: 20px !important;
+}
+.main-menu{
+    margin-top: 50px;
+}
+.header{
+    width:80% !important;
+    float: right !important;
+
+}
+.App{
+    margin-top: 0px !important;
+}
+.container{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+.repay {
+    border-radius: 45% !important;
+    margin-top: 50px;
+    width: 150px;
+}
+.cardIcon> img {
+    background-color: transparent !important;
+    height: 80px !important;
+    width: 70px !important;
+    border-radius: 0% !important;
+}
+.cardStyle{
+    background-color: #f6f5fa !important;
+    text-align: left;
+}
+.cardImp{
+    background-color: #f6f5fa !important;
+    text-align: left;
+}
+.cardImp div{
+    padding: 0 !important;
+}
+.cardImpicon> img {
+    background-color: transparent !important;
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 0% !important;
+}
+.dueStyle{
+    border-top: 4px solid #ffb600;
+    background-color: #f6f5fa !important;
+    text-align: left;
+}
+.outStyle{
+    border-top: 4px solid #ffb600;
+    background-color: #f6f5fa !important;
+    text-align: left;
+}
+.dueButton{
+    background-color: #ffb600 !important;
+    float: right;
+}
+.dueButton button{
+    line-height: 28px !important;
+    height: 28px !important;
+    background-color: #ffb600 !important;
+}
+.duedateButton{
+    background-color: #ffb600 !important;
+    float: right;
+}
+.duedateButton button{
+
+    line-height: 28px !important;
+    height: 28px !important;
+    background-color: #ffb600 !important;
+}
+.duedateButton span{
+    font-size: 12px !important;
+}
+.outButton button{
+    line-height: 28px !important;
+    height: 28px !important;
+    background-color: #ffb600 !important;
+}
+.outButton{
+    float: right;
+}
+.cardButton{
+    margin-top: -40px;
+    float: right;
+    margin-right: 70px;
+}
+.cardButton button{
+    line-height: 28px !important;
+    height: 28px !important;
+}

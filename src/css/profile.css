@@ -1,0 +1,141 @@
+.Contact-information {
+    width: 147px;
+    height: 10px;
+    opacity: 0.7;
+    mix-blend-mode: undefined;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.7);
+  }
+ 
+  .Profile-Picture {
+    mix-blend-mode: undefined;
+    font-family: Quicksand;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.7);
+  }
+
+  .email-id {
+    width: 127.5px;
+    height: 9px;
+    opacity: 0.7;
+    mix-blend-mode: undefined;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.7);
+  }
+  .email-id .text-style-1 {
+    font-size: 12.5px;
+    line-height: 1;
+  }
+  .Profile-Card {
+    mix-blend-mode: undefined;
+    border-radius: 3px;
+    white-space: nowrap !important;
+    background-color: #f6f5fa !important;
+    padding:8px !important;
+  }
+  .contact-number {
+    width: 124px;
+    height: 7.5px;
+    opacity: 0.7;
+    mix-blend-mode: undefined;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.7);
+  }
+  .contact-number .text-style-1 {
+    font-size: 12.5px;
+    line-height: 1;
+  }
+  .residential{
+    width: 127.5px;
+    height: 9px;
+    opacity: 0.7;
+    mix-blend-mode: undefined;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.7);
+    white-space: normal !important;
+  }
+  .Enter-company-name {
+    width: 103.5px;
+    height: 8.5px;
+    mix-blend-mode: undefined;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.17;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #9a9a9a;
+  }
+  .Profile-Edit-Field {
+    width: 195.5px;
+    height: 35px;
+    mix-blend-mode: undefined;
+    background-color: #ffffff;
+  }
+  .ui.input{
+    display: flex;
+  }
+  .confirm-div {
+    width: 109px;
+    height: 50px !important;
+    mix-blend-mode: undefined;
+    border-radius: 12px;
+    background-color: #16bdcd;
+  }
+  .confirm-change{
+    mix-blend-mode: undefined;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 5.31;
+    letter-spacing: 0.8px;
+    text-align: left;
+    color: #ffffff;
+    padding: 9px;
+  }
+  .cancel-div{
+    width: 109px;
+    height: 50px !important;
+    mix-blend-mode: undefined;
+    border-radius: 12px;
+    background-color:red;
+    cursor: pointer;
+  }
